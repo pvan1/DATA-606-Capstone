@@ -10,3 +10,5 @@ capstone-phase2.ipynb begins the exploration of ML modeling, after loading the d
 -- The decision was made to split the exploration of different models into separate notebooks to avoid the notebook becoming too long.
 
 capstone-phase2-svm.ipynb continues from capstone-phase2.ipynb with the exploration of SVM models.
+
+capstone-phase2-randforest.ipynb contains exploration of Random Forest classifiers.
