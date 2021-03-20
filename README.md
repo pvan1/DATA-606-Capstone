@@ -12,3 +12,7 @@ capstone-phase2.ipynb begins the exploration of ML modeling, after loading the d
 capstone-phase2-svm.ipynb continues from capstone-phase2.ipynb with the exploration of SVM models.
 
 capstone-phase2-randforest.ipynb contains exploration of Random Forest classifiers.
+
+-- My local system is running on an AMD Phenom II X6 1090T processor, which does not support AVX instructions.  For that reason the exploration of Articial Neural Networks using Tensorflow will be carried out in Google Colab Notebooks.  Those notebooks are uploaded here.
+
+capstone_phase2_ann.ipynb contains the exploration of ANN classifiers.
