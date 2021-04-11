@@ -19,4 +19,6 @@ Those notebooks are uploaded here.
 
 capstone_phase2_ann.ipynb contains the exploration of ANN classifiers, focusing mainly on hyper-parameter tuning and evaluation of a network using the optimal feature subset identified by the Random Forest classifier.
 
-capstone_phase2_ann2.ipynb contains hyper-parameter tuning and evaluation of a network using the five (5) previously identified feature subsets, for direct comparison to the traditional ML models used.
+capstone_phase2_ann_2.ipynb contains hyper-parameter tuning and evaluation of a network using the five (5) previously identified feature subsets, for direct comparison to the traditional ML models used.
+
+capstone_phase2_ann_plot_results.ipynb loads classification reports from the tests conducted in capstone_phase2_ann.ipynb and capstone_phase2_ann_2.ipynb and plots them on the same axes for comparison.
