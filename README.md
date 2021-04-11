@@ -17,4 +17,6 @@ capstone-phase2-randforest.ipynb contains exploration of Random Forest classifie
 For that reason the exploration of Artificial Neural Networks using Tensorflow will be carried out in Google Colab Notebooks.
 Those notebooks are uploaded here.
 
-capstone_phase2_ann.ipynb contains the exploration of ANN classifiers.
+capstone_phase2_ann.ipynb contains the exploration of ANN classifiers, focusing mainly on hyper-parameter tuning and evaluation of a network using the optimal feature subset identified by the Random Forest classifier.
+
+capstone_phase2_ann2.ipynb contains hyper-parameter tuning and evaluation of a network using the five (5) previously identified feature subsets, for direct comparison to the traditional ML models used.
